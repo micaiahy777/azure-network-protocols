@@ -55,14 +55,13 @@ The final step is to force the policy to update using Windows Powershell. I chan
 <br />
 
 <p>
-
 </p>
 <p> 
 <img width="1680" alt="Screenshot 2025-01-29 at 4 15 00 PM" src="https://github.com/user-attachments/assets/84cf994f-6d9f-4d60-be43-b65f41bbedd7" /> 
 </p>
-Now, when I log back in, I see the big smiley face on the background of one of my users computers! 
+Now, when I log back into bac.vol, I see the big smiley face on the background!
+</p>
 <br />
-
 
 
 
